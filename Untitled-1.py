@@ -1,0 +1,2 @@
+print ("bruh")
+print ("bangokawango")
