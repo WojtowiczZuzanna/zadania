@@ -17,8 +17,8 @@ class TV():
 
 
 
-tv1 = TV(channel_no)
-tv1.show_status(channel_no)
+tv1 = TV()
+tv1.show_status()
 tv1.turn_on()
 tv1.show_status()
 tv1.turn_off()
